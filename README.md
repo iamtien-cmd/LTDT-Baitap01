@@ -15,5 +15,6 @@ de.hdodenhof.circleimageview.CircleImageView
 
 5. Viết chương trình nhập 01 chuỗi ký tự bất kỳ từ View (EditText) và in ra View (TextView) và in ra Toast chuỗi đó đảo ngược và in hoa thông qua nút Button. ví dụ: s="I LOVE YOU" -> s="YOU LOVE I"
  ![image](https://github.com/user-attachments/assets/36774abe-b641-4ec0-8417-038308ab118a)
+![image](https://github.com/user-attachments/assets/07b70ff8-e8a7-4c46-a95f-273e0d15e4ca)
 
 Nộp code lên github cá nhân và nộp link lên utexlms.
